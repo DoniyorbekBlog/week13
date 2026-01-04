@@ -1,0 +1,22 @@
+==================
+  WEATHER REPORT  
+==================
+City: Urgench (UZ)
+Temperature: 270.12 °C (Hot ☀️ )
+Wind Speed: 5.14 m/s (Normal wind 💨 )
+Flag URL: https://api-ninjas-data.s3.us-west-2.amazonaws.com/flags/4x3/7Q4lfgIW/uz.svg
+==================
+  WEATHER REPORT  
+==================
+City: Namangan (UZ)
+Temperature: 3.25 °C (Cold ☃️ )
+Wind Speed: 2.06 m/s (Normal wind 💨 )
+Flag URL: https://api-ninjas-data.s3.us-west-2.amazonaws.com/flags/4x3/7Q4lfgIW/uz.svg
+
+==================
+  WEATHER REPORT  
+==================
+City: Tashkent (UZ)
+Temperature: 4.97 °C (Cold ☃️ )
+Wind Speed: 3.09 m/s (Normal wind 💨 )
+Flag URL: https://api-ninjas-data.s3.us-west-2.amazonaws.com/flags/4x3/7Q4lfgIW/uz.svg
